@@ -1,7 +1,7 @@
 # FKMIT
 
 Website Forum Keluarga Muslim Indonesia Tsukuba (FKMIT)   
-URL:  https://wildanxgifari.github.io/FKMIT/
+URL:  https://fkmit.github.io/
 
 Next plan for the web:  
 -Page inisiatif badan wakaf fkmit  
